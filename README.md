@@ -30,9 +30,9 @@ RASR addresses these limitations through a modular framework comprising:
 
 # Results
 
-✨ Up to +34% improvement in reasoning
-✨ +28% in truthfulness over baseline
-✨ Only 15% additional training time
+- ✨ Up to +34% improvement in reasoning
+- ✨ +28% in truthfulness over baseline
+- ✨ Only 15% additional training time
 
 # Benchmarks
 - Datasets: GSM8K, TruthfulQA, LogiQA, MMLU, HellaSwag
